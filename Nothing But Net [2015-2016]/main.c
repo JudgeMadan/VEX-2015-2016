@@ -1,3 +1,5 @@
+//motors and sensors setup
+
 #pragma platform(VEX)
 
 //competition
@@ -8,8 +10,6 @@
 #include "Vex_Competition_Includes.c"
 
 //custom includes
+//#include "extras/VEXLCD.h"
 #include "autonomous.h"
 #include "usercontrol.h"
-
-
-
